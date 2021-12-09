@@ -1,10 +1,5 @@
-
 function App() {
-  return (
-    <div>
-      Hi Sule
-    </div>
-  );
+  return <div>Hi Maxi, I am here with you</div>;
 }
 
 export default App;
